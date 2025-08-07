@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DevOps Lifecycle</title>
+</head>
+<body>
+  <h1>DevOps Lifecycle</h1>
+  <p>➡️ Plan → Develop → Build → Test → Release → Deploy → Operate → Monitor 🔁</p>
+</body>
+</html>
